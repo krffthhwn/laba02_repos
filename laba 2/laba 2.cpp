@@ -3,6 +3,8 @@
 // Лабораторна робота № 2.
 // Лінійні програми.
 // Варіант 9
+
+
 #include <iostream>
 #include <math.h>
 using namespace std;
